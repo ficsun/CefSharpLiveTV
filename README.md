@@ -1,6 +1,8 @@
 # CefSharpLiveTV
 基于CefSharp的网络电视直播软件
 
+项目基于Visual Studio 2015
+
 键盘操作说明：
 
 Keys.Left：频道-1
